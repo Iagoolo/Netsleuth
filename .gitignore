@@ -1,0 +1,10 @@
+# Ignora arquivos compilados e binários
+*.bin
+*.gif
+*.jpg
+*.png
+*.ico
+*.html
+
+# Ignora o executável do programa caso você compile
+netsleuth
