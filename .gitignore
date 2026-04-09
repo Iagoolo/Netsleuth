@@ -5,6 +5,3 @@
 *.png
 *.ico
 *.html
-
-# Ignora o executável do programa caso você compile
-netsleuth
