@@ -5,3 +5,6 @@
 *.png
 *.ico
 *.html
+
+# Ignora pasta com as evidências coletadas
+evidências/
